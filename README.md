@@ -6,6 +6,9 @@ Volatility is an annualized standard deviation and used as the unknown variable 
 [Volatility Explanation](https://www.investopedia.com/ask/answers/062415/how-does-implied-volatility-impact-pricing-options.asp
 
 # Install
-The Jupyter notebook is written in Python 3.  In addition a sample csv file is provided.  
+The Jupyter notebook is written in Python 3.  In addition a sample csv file is provided.  Set variable 'og' in the notebook to the sample csv file.  Run the notebook.  
+
+# Contributing
+machine_learning_volatility was written by Matthew Aronowitz
 
 
