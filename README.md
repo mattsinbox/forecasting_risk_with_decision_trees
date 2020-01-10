@@ -10,7 +10,7 @@ Volatility is an annualized standard deviation and used as the unknown variable 
 
 
 # Install
-The Jupyter notebook is written in Python 3.  In addition a sample csv file is provided.  Set variable 'og' in the notebook to the sample csv file.  Run the notebook.  
+The Jupyter notebook is written in Python 3.  In addition a sample csv file is provided.  Set csv to the variable file within the notebook.  Run the notebook.  
 
 # Contributing
 machine_learning_volatility was written by Matthew Aronowitz
